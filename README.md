@@ -1,5 +1,5 @@
 # Real-Estate-Price-Prediction
-Real estate price prediction project  that uses models and algorithms, facilitating accurate property valuation and investment decisions through machine learning techniques.
+Real estate price prediction project  that build  models using sklearn and linear regression using banglore home prices dataset from kaggle.com, facilitating accurate property valuation and investment decisions through machine learning techniques.
 
 # Technology & Tools
 1. Python
@@ -9,3 +9,5 @@ Real estate price prediction project  that uses models and algorithms, facilitat
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
+
+### Dataset : https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
